@@ -1,0 +1,8 @@
+{
+  "name": "Kit Arena — Boutique de Maillots de Football",
+  "description": "Boutique en ligne de maillots de football à Casablanca, Maroc. Paiement à la livraison et livraison partout au Maroc.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
